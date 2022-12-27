@@ -28,3 +28,18 @@ nav > a:hover {
     padding: 7px;
     border-radius: 30px;
 }
+
+main {
+    
+}
+
+#conteudo {
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    text-align: center;
+}
+
