@@ -1,0 +1,29 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-size: 1rem;
+    font-family: 'Vollkorn', Georgia, Times, serif;
+}
+
+#header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #d9fac2;
+    
+}
+
+a {
+    color: black;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: rgba(0, 0, 0, 0.328);
+    padding: 7px;
+    border-radius: 30px;
+}
