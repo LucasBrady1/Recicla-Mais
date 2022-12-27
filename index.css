@@ -19,6 +19,7 @@ body {
 a {
     color: black;
     margin-right: 15px;
+    padding: 7px;
     text-decoration: none;
 }
 
